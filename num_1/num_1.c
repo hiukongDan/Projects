@@ -78,4 +78,5 @@ int main()
 			{printf("Bye\n"); break;}
 		ungetc(c, stdin);	
 	}
+	return 0;
 }
